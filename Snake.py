@@ -22,7 +22,7 @@ setTitle("Snake")
 pygame.display.update()
 clock = pygame.time.Clock()
 font = pygame.font.SysFont(None, 30)
-img = pygame.image.load(r"E:\coding\python\Images\fake_grass_Resized.jpg")
+img = pygame.image.load(r"fake_grass_Resized.jpg")
 exit_ = False
 game_over = False
 snake_x = 35
